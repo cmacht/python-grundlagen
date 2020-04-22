@@ -1,4 +1,4 @@
-# Schritt 1: Moin Moin, Welt!
+# Projekt 1: Moin Moin, Welt!
 
 So soll das fertige Programm aussehen:
 
