@@ -8,7 +8,7 @@ So soll das fertige Programm aussehen:
 Der **weiße** Text ist die Ausgabe des Programms. Der **grüne** Text wird vom Benutzer eingegeben.
 
 
-Was wird gelernt?
+Das könnte dir helfen:
 -------------------
 
 * `print('text')`
