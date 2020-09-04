@@ -9,8 +9,8 @@ Diese drei Fälle sollten abgedeckt sein:
 * Dein Geburtstag ist heute
 * Dein Geburtstag kommt erst noch
 
-Das könnte dir helfen:
-----------------------
+
+## Das könnte dir helfen:
 
 **Funktionen**
 
@@ -31,8 +31,8 @@ Das modul `datetime` stellt Methoden bereit, um mit Datumsobjekten zu arbeiten.
 * `delta.days` könnte hilfreich sein :)
 
 
-Bonusaufgabe:
-----------------------
+## Bonusaufgabe:
+
 Versuche auch folgende Details zu implementieren:
 
 ![image](03-screenshot-2.png)

@@ -7,8 +7,8 @@ So soll das fertige Programm aussehen:
 Versucht, das abgebildete Programm selbst zu bauen. Der **weiße** Text ist die Ausgabe des Programms. Der **grüne** Text wird vom Benutzer eingegeben.
 
 
-Das könnte dir helfen:
--------------------
+## Das könnte dir helfen:
+
 **String Formatierung**
 
 `"Deine Zahl war {}.".format(zahl)`
