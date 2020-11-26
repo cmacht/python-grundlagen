@@ -11,7 +11,7 @@ Versucht, das abgebildete Programm selbst zu bauen. Der **weiße** Text ist die 
 
 **String Formatierung**
 
-`"Deine Zahl war {}.".format(zahl)`
+`f"Deine Zahl war {zahl}."`
 
 **If-Abfragen (Bedingte Anweisungen)**
 
