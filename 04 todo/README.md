@@ -5,7 +5,6 @@
 Versucht, das abgebildete Programm selbst zu bauen. Der **weiße** Text ist die Ausgabe des Programms. Der **grüne** Text wird vom Benutzer eingegeben.
 
 
-
 ## Das könnte dir helfen:
 
 **Listen**
@@ -16,6 +15,14 @@ Versucht, das abgebildete Programm selbst zu bauen. Der **weiße** Text ist die 
     # namen -> ['Jule', 'Nils', 'Lena', 'Benny']
     
 Es gibt noch viele weitere Methoden wie `.append()` für den Datentyp "Liste". Du findest sie in der [Python-Dokumentation](https://docs.python.org/3/tutorial/datastructures.html).
+
+**Länge**
+
+`len()` gibt die Länge eines Objekts als Ganzzahl zurück:
+
+    lehrer = ['DRI', 'MAT']
+    len(lehrer)
+    # -> 2
 
 **Dateien bearbeiten**
 
